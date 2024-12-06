@@ -1,2 +1,2 @@
 # Add German keyboard support
-Set-WinUserLanguageList -LanguageList "en-DE", "en-US" -Force
+Set-WinUserLanguageList -LanguageList "en-US", "en-US" -Force
